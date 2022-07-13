@@ -15,8 +15,8 @@ const NavigationContainer = (props) => {
                 </NavLink>
             </div>
             <div className="nav-link-wrapper">
-                <NavLink exact to="/link1" activeClassName="nav-link-active">
-                Link1
+                <NavLink exact to="/game-theme-generator" activeClassName="nav-link-active">
+                Game Theme Generator
                 </NavLink>
             </div>
             <div className="nav-link-wrapper">
